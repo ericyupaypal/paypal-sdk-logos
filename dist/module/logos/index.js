@@ -20,3 +20,4 @@ export * from './trustly';
 export * from './oxxo';
 export * from './boleto';
 export * from './maxima';
+export * from './mercadopago';

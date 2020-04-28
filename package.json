@@ -52,7 +52,7 @@
     "mocha": "^4"
   },
   "dependencies": {
-    "@paypal/sdk-constants": "^1.0.11",
+    "@paypal/sdk-constants": "https://github.com/ericyupaypal/paypal-sdk-constants.git#mercadopago",
     "belter": "^1.0.45",
     "jsx-pragmatic": "^2"
   }
